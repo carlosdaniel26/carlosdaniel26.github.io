@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Web developer and low level programming enthusiast.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Learning 1% more each day to understand how things works.
 
 ### Contact me
 

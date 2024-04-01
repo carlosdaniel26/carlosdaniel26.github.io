@@ -1,1 +1,3 @@
-# [My blog](https://carlosdaniel26.github.io)
+## [My blog](https://carlosdaniel26.github.io)
+
+### A blog to post from my mind to text
